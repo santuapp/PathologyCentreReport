@@ -1,0 +1,59 @@
+Message-ID: <c7afca6649c1f70d928c29ce9d302c8a@localhost>
+Date: Fri, 03 Jun 2016 16:29:10 +0200
+Subject: Pathology Labs Passcode
+From: mohit.bhansali@housesome.com
+To: patientfixture@pathologylabs.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1464964150_4399afb078b5becdbb53fbd024a2c707_=_"
+
+
+--_=_swift_v4_1464964150_4399afb078b5becdbb53fbd024a2c707_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Patient Name=20
+
+Please use the following pass-code to view your rep=
+ort: 699989
+
+--_=_swift_v4_1464964150_4399afb078b5becdbb53fbd024a2c707_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3=
+.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+</head>
+<body>
+<!-- Wrapper/Container Table: Use a wrapper table to control the width and =
+the background color consistently of your email. Use this approach instead =
+of setting attributes on the body tag. -->
+<div>
+    Dear Patient Name <br><br/>
+
+    <p>Please use the following pass-code to view your report: 699989</p>
+</div>
+<!-- End of wrapper table -->
+</body>
+</html>
+    </body>
+</html>
+
+
+--_=_swift_v4_1464964150_4399afb078b5becdbb53fbd024a2c707_=_--
