@@ -1,5 +1,5 @@
-Pathology Reporting System
-===============================
+PathologyCentre Reporting System
+=================================
 
 "Steps to prepare the source code to build/run properly & Steps to create and initialize the database"
 
@@ -37,30 +37,6 @@ Pathology Reporting System
 	
 Please note: Dummy data in the system doesn't belong to any real data and it is being used for testing purpose only. 
 
-"Any assumptions made and missing requirements that are not covered in the specifications":
+I have created a demo account in gmail for sending real emails.
 
-1. Type of medical tests are not limited, hence created admin panel to generate any number of types of test.
-2. There was no way to track the number of operators and patients using our system. Hence provided this information in the admin panel.
-3. Sending SMS required third party API to integrate with our system. Hence required details for integration. To make it work, I am sending the passcode to the patient's registered email address.
-4. I have created a demo account in Zoho Mails for sending real emails.
-5. Operators can see the list of patients s/he has created, but can generate reports for any registered patients in the system.
 
-Sample Number :: 
-C:\xampp\htdocs\pathology-reporting-system-master>findstr /S /I /M /C:"referred_
-doctor" *.*
-backend\views\site\index.php
-backend\views\site\view.php
-backend\views\site\_report.php
-backend\views\site\_report_header.php
-common\models\Reports.php
-common\models\ReportsSearch.php
-DB\crossover.sql
-DB\crossover_tests.sql
-frontend\views\reports\index.php
-frontend\views\reports\view.php
-frontend\views\reports\_form.php
-frontend\views\reports\_report.php
-frontend\views\reports\_report_header.php
-frontend\views\reports\_search.php
-tests\codeception\common\unit\fixtures\data\models\reports.php
-tests\codeception\common\unit\models\ReportsTest.php
